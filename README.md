@@ -9,4 +9,4 @@ I'm an 18-year-old hobbyist programmer and computer enthusiast
 - 🌱 I’m currently learning **Godot Engine**
 - 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/bartoszstepien01)
 - 📫 How to reach me **bartoszstepien01@interia.pl**
-- 📄 Know about my experiences [bartoszstepien01.github.io](httpd://bartoszstepien01.github.io)
+- 📄 Know about my experiences [bartoszstepien01.github.io](https://bartoszstepien01.github.io)
