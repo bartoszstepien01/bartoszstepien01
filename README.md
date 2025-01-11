@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Welcome to my profile!
-I'm a 19-year-old hobbyist programmer and computer enthusiast
+I'm a 20-year-old hobbyist programmer and computer enthusiast
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartoszstepien01&show_icons=true&theme=synthwave&locale=en" alt="bartoszstepien01" /></p>
 
 ### About me
